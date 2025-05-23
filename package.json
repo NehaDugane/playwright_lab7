@@ -1,14 +1,27 @@
 {
+<<<<<<< HEAD
   "name": "playwright",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {},
+=======
+  "name": "todo-playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+>>>>>>> 1f8188a (initial commit)
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "devDependencies": {
+<<<<<<< HEAD
     "@playwright/test": "^1.52.0",
     "@types/node": "^22.15.19"
+=======
+    "@playwright/test": "^1.52.0"
+>>>>>>> 1f8188a (initial commit)
   }
 }
